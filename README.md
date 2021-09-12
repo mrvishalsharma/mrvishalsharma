@@ -38,7 +38,6 @@
   <code><img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/></code>
 
 </p>
-
 <br/>
 
 <p align="center">
