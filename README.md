@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid Fighter Game](https://github.com/mrvishalsharma/Covid-Fighter-Game)** and **[HackerRank](https://github.com/mrvishalsharma/HackerRank)**
+- 🔭 I’m currently working on **[HackerRank](https://github.com/mrvishalsharma/HackerRank)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
