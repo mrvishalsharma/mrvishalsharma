@@ -7,7 +7,7 @@
 <p align="center">
 
 [![Hello programmer Welcome to my profile](https://img.shields.io/badge/Hello,Programmer!-Welcome-orange.svg?style=flat&logo=github)](https://github.com/mrvishalsharma) [![Profile Visitors](https://visitor-badge.glitch.me/badge?page_id=mrvishalsharma.profileviews-badge)](https://github.com/mrvishalsharma) 
-[![Repos Badge](https://badges.pufler.dev/repos/mrvishalsharma)]
+[![Repos Badge](https://badges.pufler.dev/repos/mrvishalsharma)](https://github.com/mrvishalsharma?tab=repositories)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/vishalkr-sharma/) 
 [![Connect on Telegram](https://img.shields.io/badge/--Telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/princekrsh) 
 [![Connect on Facebook](https://img.shields.io/badge/--Facebook?label=Facebook&logo=Facebook&style=social)](https://www.facebook.com/profile.php?id=100049597718549)
