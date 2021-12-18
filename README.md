@@ -19,11 +19,11 @@
 
 - 🔭 I’m currently working on **[HackerRank](https://github.com/mrvishalsharma/HackerRank)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **[Data Structures and Algorithms](https://github.com/mrvishalsharma/GfG-DataStructure-And-Algorithm)**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://mrvishalsharma.github.io/my-portfolio/)** [In production]
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://mrvishalsharma.github.io/my-portfolio/)**
 
 - 📫 How to reach me **mrvishalsharma8@gmail.com**
 
