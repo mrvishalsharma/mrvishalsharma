@@ -58,7 +58,7 @@
 
   <br/>
 
- Note:- Top languages is only a metric of the languages my public code consists of and it doesn't reflect my experience or my skills level.
+ Note:- Top languages is only a metric of the languages my public code consists of and it doesn't reflect my experience or skills level.
 
 <br/>
 
